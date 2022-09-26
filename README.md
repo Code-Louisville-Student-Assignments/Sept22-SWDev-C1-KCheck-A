@@ -2,7 +2,7 @@
 
 ## Instructions:
 
-Clone this repo using your command terminal: https://github.com/CodeLouisville/Software1-Knowledge-Check-1.git 
+Clone this repo using your command terminal: https://github.com/Code-Louisville-Student-Assignments/Sept22-SWDev-C1-KCheck-A.git 
 
 This calculator has addition, subtraction, and division already implemented.  
 
